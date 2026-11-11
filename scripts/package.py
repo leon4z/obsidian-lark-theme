@@ -20,7 +20,9 @@ def main():
     with zipfile.ZipFile(destination) as archive:
         assert archive.testzip() is None
         assert archive.read(f"{folder}/theme.css") == (ROOT / "theme.css").read_bytes()
-        assert "ISC License" in archive.read(f"{folder}/LICENSE").decode()
+        assert archive.read(f"{folder}/LICENSE") == (ROOT / "LICENSE").read_bytes()
+        assert archive.read(f"{folder}/assets/LICENSE-lucide") == (ROOT / "assets/LICENSE-lucide").read_bytes()
+        assert "ISC License" in archive.read(f"{folder}/theme.css").decode()
     print(f"Local package: {destination}")
 
 

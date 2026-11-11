@@ -19,7 +19,7 @@
 
 需要 Obsidian **1.14.4** 或更新版本。
 
-1. 从 [Releases](https://github.com/leon4z/obsidian-lark-theme/releases/latest) 下载 `Lark-1.0.1.zip`。
+1. 从 [Releases](https://github.com/leon4z/obsidian-lark-theme/releases/latest) 下载 `Lark-1.0.2.zip`。
 2. 解压，将 `Lark` 文件夹放入笔记库的 `.obsidian/themes/` 目录。
 3. 在「设置 → 外观 → 主题」中选择 **Lark**。
 
@@ -34,4 +34,4 @@ python3 scripts/package.py
 
 ## 许可
 
-[MIT](LICENSE)，包含第三方许可声明。
+[MIT](LICENSE)。Lucide 图标采用 [ISC 许可](assets/LICENSE-lucide)，两份声明均完整保留在分发的 CSS 内。

@@ -19,7 +19,7 @@ A Feishu-inspired Obsidian theme with a white document canvas, a soft gray sideb
 
 Requires Obsidian **1.14.4** or later.
 
-1. Download `Lark-1.0.1.zip` from [Releases](https://github.com/leon4z/obsidian-lark-theme/releases/latest).
+1. Download `Lark-1.0.2.zip` from [Releases](https://github.com/leon4z/obsidian-lark-theme/releases/latest).
 2. Extract the `Lark` folder into your vault's `.obsidian/themes/` directory.
 3. Select **Lark** in **Settings → Appearance → Themes**.
 
@@ -34,4 +34,4 @@ python3 scripts/package.py
 
 ## License
 
-[MIT](LICENSE), with included third-party license notices.
+[MIT](LICENSE). Lucide icons use the [ISC license](assets/LICENSE-lucide); both notices are embedded in the distributed CSS.

@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.2 — 2026-11-11
+
+- Use a standard MIT license file for repository license detection.
+- Keep complete third-party notices in the CSS and packaged icon license.
+
 ## 1.0.1 — 2026-11-11
 
 - Rename the display name to Lark to meet community directory naming requirements.

@@ -24,7 +24,11 @@ def check():
     for level in range(1, 7):
         assert f"--h{level}-weight: 500;" in css
     license_text = (ROOT / "LICENSE").read_text()
-    assert "MIT License" in license_text and "ISC License" in license_text
+    assert "MIT License" in license_text and "ISC License" not in license_text
+    icon_license = (ROOT / "assets/LICENSE-lucide").read_text()
+    assert "ISC License" in icon_license and "Lucide Contributors" in icon_license
+    assert license_text.strip() in css
+    assert icon_license.strip() in css
     assert "leon4z" in license_text and "s1dashu" in license_text
     for name in ["README.md", "README.zh-CN.md"]:
         path = ROOT / name
