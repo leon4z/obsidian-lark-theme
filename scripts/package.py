@@ -9,7 +9,7 @@ from check import ROOT, check
 def main():
     manifest = check()
     folder = manifest["name"]
-    destination = ROOT / "dist" / f"Lark-Theme-{manifest['version']}.zip"
+    destination = ROOT / "dist" / f"Lark-{manifest['version']}.zip"
     destination.parent.mkdir(exist_ok=True)
     files = [ROOT / name for name in ["theme.css", "manifest.json", "LICENSE"]]
     files.extend(p for p in (ROOT / "assets").rglob("*") if p.is_file())

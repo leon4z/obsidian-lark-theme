@@ -10,7 +10,7 @@ ROOT = Path(__file__).resolve().parents[1]
 
 def check():
     manifest = json.loads((ROOT / "manifest.json").read_text())
-    assert manifest["name"] == "Lark Theme"
+    assert manifest["name"] == "Lark"
     assert manifest["author"] == "leon4z"
     assert re.fullmatch(r"\d+\.\d+\.\d+", manifest["version"])
     assert manifest["minAppVersion"] == "1.14.4"

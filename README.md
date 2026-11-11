@@ -1,4 +1,4 @@
-# Lark Theme
+# Lark
 
 A Feishu-inspired Obsidian theme with a white document canvas, a soft gray sidebar, blue accents and balanced typography. Includes light and dark appearances.
 
@@ -19,9 +19,9 @@ A Feishu-inspired Obsidian theme with a white document canvas, a soft gray sideb
 
 Requires Obsidian **1.14.4** or later.
 
-1. Download `Lark-Theme-1.0.0.zip` from [Releases](https://github.com/leon4z/obsidian-lark-theme/releases/latest).
-2. Extract the `Lark Theme` folder into your vault's `.obsidian/themes/` directory.
-3. Select **Lark Theme** in **Settings → Appearance → Themes**.
+1. Download `Lark-1.0.1.zip` from [Releases](https://github.com/leon4z/obsidian-lark-theme/releases/latest).
+2. Extract the `Lark` folder into your vault's `.obsidian/themes/` directory.
+3. Select **Lark** in **Settings → Appearance → Themes**.
 
 Enable **Readable line length** to use the 820px page width.
 

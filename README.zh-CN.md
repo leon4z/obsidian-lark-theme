@@ -1,4 +1,4 @@
-# Lark Theme
+# Lark
 
 飞书文档风格的 Obsidian 主题：白色纸面、浅灰侧栏、蓝色点缀和舒适的排版，包含浅色与深色外观。
 
@@ -19,9 +19,9 @@
 
 需要 Obsidian **1.14.4** 或更新版本。
 
-1. 从 [Releases](https://github.com/leon4z/obsidian-lark-theme/releases/latest) 下载 `Lark-Theme-1.0.0.zip`。
-2. 解压，将 `Lark Theme` 文件夹放入笔记库的 `.obsidian/themes/` 目录。
-3. 在「设置 → 外观 → 主题」中选择 **Lark Theme**。
+1. 从 [Releases](https://github.com/leon4z/obsidian-lark-theme/releases/latest) 下载 `Lark-1.0.1.zip`。
+2. 解压，将 `Lark` 文件夹放入笔记库的 `.obsidian/themes/` 目录。
+3. 在「设置 → 外观 → 主题」中选择 **Lark**。
 
 开启「缩减栏宽」后，正文栏宽为 820px。
 
