@@ -8,7 +8,7 @@
 
 ![深色外观 / Dark appearance](screenshots/dark.png)
 
-飞书文档风格的 Obsidian 主题，界面简洁、排版清晰，适合日常阅读与写作。
+Lark 是一款适合日常阅读与写作的 Obsidian 主题。设计灵感来自飞书文档，采用清晰的文字层级、简洁的侧栏和蓝色点缀，支持浅色与深色外观。
 
 ## 特点
 

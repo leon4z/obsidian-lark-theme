@@ -8,7 +8,7 @@
 
 ## 中文
 
-飞书文档风格的 Obsidian 主题，界面简洁、排版清晰，适合日常阅读与写作。
+Lark 是一款适合日常阅读与写作的 Obsidian 主题。设计灵感来自飞书文档，采用清晰的文字层级、简洁的侧栏和蓝色点缀，支持浅色与深色外观。
 
 ### 特点
 
@@ -36,7 +36,7 @@
 
 ## English
 
-A Feishu-inspired Obsidian theme with a clean interface and clear typography for everyday reading and writing.
+Lark is an Obsidian theme for everyday reading and writing. Inspired by the document editor in Lark (Feishu), it combines clear typography, subtle navigation and blue accents, with light and dark appearances.
 
 ### Features
 

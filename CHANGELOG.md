@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.7 — 2026-11-13
+
+- Unify the theme descriptions in the README and community listing.
+
 ## 1.0.6 — 2026-11-13
 
 - Add Chinese and English Star prompts to the README.
