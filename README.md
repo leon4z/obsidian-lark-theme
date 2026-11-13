@@ -32,6 +32,8 @@
 2. 解压，将 `Lark` 文件夹放入笔记库的 `.obsidian/themes/` 目录。
 3. 在「设置 → 外观 → 主题」中选择 **Lark**。
 
+如果喜欢 Lark，欢迎在 [GitHub](https://github.com/leon4z/obsidian-lark-theme) 点个 Star，支持后续更新。
+
 ## English
 
 A Feishu-inspired Obsidian theme with a clean interface and clear typography for everyday reading and writing.
@@ -57,6 +59,8 @@ In **Settings → Appearance → Themes → Manage**, search for **Lark**, then 
 1. Download the latest `Lark-*.zip` installation package from [Releases](https://github.com/leon4z/obsidian-lark-theme/releases/latest).
 2. Extract the `Lark` folder into your vault's `.obsidian/themes/` directory.
 3. Select **Lark** in **Settings → Appearance → Themes**.
+
+If you enjoy Lark, consider starring the project on [GitHub](https://github.com/leon4z/obsidian-lark-theme).
 
 ## License
 

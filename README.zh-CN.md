@@ -32,6 +32,8 @@
 2. 解压，将 `Lark` 文件夹放入笔记库的 `.obsidian/themes/` 目录。
 3. 在「设置 → 外观 → 主题」中选择 **Lark**。
 
+如果喜欢 Lark，欢迎在 [GitHub](https://github.com/leon4z/obsidian-lark-theme) 点个 Star，支持后续更新。
+
 ## 许可
 
 [MIT](LICENSE)。Lucide 图标采用 [ISC 许可](assets/LICENSE-lucide)，两份声明均嵌入分发的 CSS。
