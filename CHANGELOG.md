@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.5 — 2026-11-13
+
+- Refine the theme overview and remove the optional page-width note from installation instructions.
+
 ## 1.0.4 — 2026-11-13
 
 - Group the README by language and place shared previews at the top.

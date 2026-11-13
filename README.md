@@ -8,13 +8,13 @@
 
 ## 中文
 
-飞书文档风格的 Obsidian 主题，包含浅色与深色外观。
+飞书文档风格的 Obsidian 主题，界面简洁、排版清晰，适合日常阅读与写作。
 
 ### 特点
 
-- 系统字体、清晰的标题与紧凑段落间距。
-- 浅灰侧栏、蓝色点缀和简洁的引用、表格、代码块。
-- 使用原生字号设置，无需插件或远程资源。
+- 浅色与深色外观。
+- 系统字体、清晰的标题和紧凑的段落间距。
+- 浅灰侧栏、蓝色链接与列表标记，引用、表格和代码块样式统一。
 
 ### 安装
 
@@ -32,17 +32,15 @@
 2. 解压，将 `Lark` 文件夹放入笔记库的 `.obsidian/themes/` 目录。
 3. 在「设置 → 外观 → 主题」中选择 **Lark**。
 
-开启「缩减栏宽」后，正文栏宽为 820px。
-
 ## English
 
-A Feishu-inspired Obsidian theme with light and dark appearances.
+A Feishu-inspired Obsidian theme with a clean interface and clear typography for everyday reading and writing.
 
 ### Features
 
+- Light and dark appearances.
 - System fonts, clear headings and compact paragraph spacing.
-- Soft gray navigation, blue accents and clean quotes, tables and code blocks.
-- Native font-size settings; no required plugins or remote assets.
+- Subtle navigation, blue links and list markers, with consistent quotes, tables and code blocks.
 
 ### Installation
 
@@ -59,8 +57,6 @@ In **Settings → Appearance → Themes → Manage**, search for **Lark**, then 
 1. Download the latest `Lark-*.zip` installation package from [Releases](https://github.com/leon4z/obsidian-lark-theme/releases/latest).
 2. Extract the `Lark` folder into your vault's `.obsidian/themes/` directory.
 3. Select **Lark** in **Settings → Appearance → Themes**.
-
-Enable **Readable line length** for an 820px page width.
 
 ## License
 
