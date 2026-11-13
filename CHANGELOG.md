@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.3 — 2026-11-13
+
+- Add a concise bilingual README with community store and manual installation instructions.
+
 ## 1.0.2 — 2026-11-11
 
 - Use a standard MIT license file for repository license detection.
